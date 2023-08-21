@@ -1,6 +1,6 @@
 @import url(https://clearvision.github.io/ClearVision-v6/main.css);
 :root {
   --background-shading: 0%;
-  --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)]
+  --background-overlay: rgba(0, 0, 0, 0.6);
   --background-image:  url(https://cdn.discordapp.com/attachments/487908368577724418/1113681101077086249/143-1437722_yui-wallpaper.jpg);
 }
