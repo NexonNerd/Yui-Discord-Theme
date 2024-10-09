@@ -1,0 +1,6 @@
+@import url(https://clearvision.github.io/ClearVision-v6/main.css);
+:root {
+  --background-shading: 0%;
+  --background-overlay: rgba(0, 0, 0, 0.6);
+  --background-image:  url(https://wallpapers.com/images/hd/kawaii-hd-yui-hirasawa-q16fe2jla4ugbynv.jpg);
+}
