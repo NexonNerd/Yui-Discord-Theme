@@ -1,0 +1,6 @@
+@import url(https://clearvision.github.io/ClearVision-v6/main.css);
+:root {
+  --background-shading: 0%;
+  --background-overlay: rgba(0, 0, 0, 0.6);
+  --background-image:  url(https://c.wallhere.com/photos/d4/bb/K_ON_Hirasawa_Yui_anime_girls-217807.jpg!d);
+}
