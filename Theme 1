@@ -1,5 +1,5 @@
 @import url(https://clearvision.github.io/ClearVision-v6/main.css);
 :root {
-  --background-overlay: rgba(0, 0, 0, 0);
+  --backdrop-overlay: rgba(0, 0, 0, 0.8); 
   --background-image:  url(https://rare-gallery.com/mocahbig/5469659-selective-coloring-black-background-dark-background.jpg);
 }
