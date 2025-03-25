@@ -1,1 +1,22 @@
 @import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/scsl.css);
+
+:root {
+    --background-image: url(https://i.ibb.co/1QPchzf/image.png);
+    --options-transparency: transparent;
+}
+ 
+.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
+    background: #a3be8c !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+}
+
+.winButtonClose-1HsbF- {
+    background: #bf616a !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+}
