@@ -15,5 +15,6 @@
   --card-shading: rgba(0, 0, 0, 0);
   --popout-shading: rgba(0, 0, 0, 0);
   --modal-shading: rgba(0, 0, 0, 0);
+  --input-shading: rgba(0, 0, 0, 0);
   --background-image: url(https://wallpapers.com/images/hd/yui-hirasawa-1920-x-1080-wallpaper-lp3crz6qkw9t0d1u.jpg);
 }
