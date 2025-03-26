@@ -38,7 +38,7 @@
   --popout-shading: rgba(0, 0, 0, 0);
   --modal-shading: rgba(0, 0, 0, 0);
   --input-shading: rgba(0, 0, 0, 0);
-  --settingsmodalwidth: 960px;
-  --settingsmodalheight: 80vh;
+  --settingsmodalwidth: 1000px;
+  --settingsmodalheight: 100vh;
   --background-image: url(https://c.wallhere.com/photos/d4/bb/K_ON_Hirasawa_Yui_anime_girls-217807.jpg!d);
 }
