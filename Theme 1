@@ -31,9 +31,13 @@
 */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://raw.githubusercontent.com/warrayquipsome/Chillax/refs/heads/main/Addons/SettingsModalEdited.css");
-.typeWindows__421ed {
-    background: rgba(0, 0, 0, 0.7);
-    box-shadow: 0 0 0px rgba(0,0,0,0);
+.messageContent_c19a55 .timestamp_c19a55 time:after {
+  content: " (" attr(aria-label) ")";
+  font-size: 0.625rem;
+  font-weight: 400;
+}
+.messageContent_c19a55 .timestamp_c19a55 span {
+  display: none;
 }
 :root {
   --background-shading: rgba(0, 0, 0, 0);
