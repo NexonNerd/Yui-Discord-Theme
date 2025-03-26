@@ -31,6 +31,10 @@
 */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://raw.githubusercontent.com/warrayquipsome/Chillax/refs/heads/main/Addons/SettingsModalEdited.css");
+.typeWindows__421ed {
+    background: rgba(0, 0, 0, 0.7);
+    box-shadow: 0 0 0px rgba(0,0,0,0);
+}
 :root {
   --background-shading: rgba(0, 0, 0, 0);
   --card-shading: rgba(0, 0, 0, 0);
