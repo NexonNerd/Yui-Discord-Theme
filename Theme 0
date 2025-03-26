@@ -16,5 +16,5 @@
   --popout-shading: rgba(0, 0, 0, 0);
   --modal-shading: rgba(0, 0, 0, 0);
   --input-shading: rgba(0, 0, 0, 0);
-  --background-image: url(https://c.wallhere.com/photos/c9/37/K_ON_Hirasawa_Yui-181118.jpg!d);
+  --background-image: url(https://wallpapercave.com/wp/wp7625673.jpg);
 }
