@@ -38,7 +38,7 @@
   --popout-shading: rgba(0, 0, 0, 0);
   --modal-shading: rgba(0, 0, 0, 0);
   --input-shading: rgba(0, 0, 0, 0);
-  --settingsmodalwidth: 960px;
-  --settingsmodalheight: 80vh;
+  --settingsmodalwidth: 1000px;
+  --settingsmodalheight: 100vh;
   --background-image: url(https://images.coolwallpapers.me/picsup/2925656-k-on-hirasawa-yui___anime-wallpapers.jpg);
 }
