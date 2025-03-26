@@ -11,5 +11,6 @@
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 :root {
   --background-shading-percent: 0%;
+  --background-shading: rgba(0, 0, 0, 0);
   --background-image: url(https://wallpapers.com/images/hd/kawaii-hd-yui-hirasawa-q16fe2jla4ugbynv.jpg);
 }
