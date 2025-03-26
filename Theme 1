@@ -9,7 +9,7 @@
  */
 /* Credits to Zerthox for making the original theme. */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
-:is(.theme-midnight, .theme-light .theme-midnight) {
+:root {
   --background-shading: 0%;
   --background-overlay: rgba(0, 0, 0, 0.6);
   --background-image:  url(https://rare-gallery.com/mocahbig/5469659-selective-coloring-black-background-dark-background.jpg);
