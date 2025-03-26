@@ -1,4 +1,4 @@
-Collection of 9 Yui Hirasawa themes.
+Collection of 10 Yui Hirasawa themes.
 
 Simply put this URL into the online themes field, and then put the theme number at the end:
 
