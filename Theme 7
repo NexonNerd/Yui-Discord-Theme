@@ -38,7 +38,7 @@
   --popout-shading: rgba(0, 0, 0, 0);
   --modal-shading: rgba(0, 0, 0, 0);
   --input-shading: rgba(0, 0, 0, 0);
-  --settingsmodalwidth: 960px;
-  --settingsmodalheight: 80vh;
+  --settingsmodalwidth: 1000px;
+  --settingsmodalheight: 100vh;
   --background-image: url(https://wallpapers.com/images/hd/kawaii-hd-yui-hirasawa-q16fe2jla4ugbynv.jpg);
 }
