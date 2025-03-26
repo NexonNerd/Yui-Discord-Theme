@@ -40,5 +40,5 @@
   --input-shading: rgba(0, 0, 0, 0);
   --settingsmodalwidth: 1000px;
   --settingsmodalheight: 100vh;
-  --background-image: url(https://wallpapercave.com/wp/wp7625673.jpg);
+  --background-image: url(https://wallpapercave.com/wp/wp7625582.png);
 }
