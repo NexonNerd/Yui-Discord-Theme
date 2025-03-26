@@ -12,5 +12,9 @@
 :root {
   --background-shading-percent: 0%;
   --background-shading: rgba(0, 0, 0, 0);
+  --card-shading: rgba(0, 0, 0, 0);
+  --popout-shading: rgba(0, 0, 0, 0);
+  --modal-shading: rgba(0, 0, 0, 0);
+  --input-shading: rgba(0, 0, 0, 0);
   --background-image: url(https://c.wallhere.com/photos/d4/bb/K_ON_Hirasawa_Yui_anime_girls-217807.jpg!d);
 }
