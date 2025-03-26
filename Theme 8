@@ -9,6 +9,7 @@
  */
 /* Credits to Zerthox for making the original theme. */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
+@import url("https://raw.githubusercontent.com/warrayquipsome/Chillax/refs/heads/main/Addons/SettingsModalEdited.css");
 :root {
   --background-shading-percent: 0%;
   --background-shading: rgba(0, 0, 0, 0);
