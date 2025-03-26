@@ -38,7 +38,7 @@
   --popout-shading: rgba(0, 0, 0, 0);
   --modal-shading: rgba(0, 0, 0, 0);
   --input-shading: rgba(0, 0, 0, 0);
-  --settingsmodalwidth: 960px;
-  --settingsmodalheight: 80vh;
+  --settingsmodalwidth: 1000px;
+  --settingsmodalheight: 100vh;
   --background-image: url(https://pm1.narvii.com/7458/331bbbd203c027d011cc6297ae62ec8f0db0380br1-1500-844v2_uhq.jpg);
 }
