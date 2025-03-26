@@ -11,6 +11,10 @@
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 :root {
   --background-shading-percent: 0%;
-  --background-overlay: rgba(0, 0, 0, 0.6);
+  --background-shading: rgba(0, 0, 0, 0);
+  --card-shading: rgba(0, 0, 0, 0);
+  --popout-shading: rgba(0, 0, 0, 0);
+  --modal-shading: rgba(0, 0, 0, 0);
+  --input-shading: rgba(0, 0, 0, 0);
   --background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/22/83701-K-ON-Hirasawa_Yui.jpg);
 }
