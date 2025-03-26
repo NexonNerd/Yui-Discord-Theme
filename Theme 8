@@ -17,5 +17,7 @@
   --popout-shading: rgba(0, 0, 0, 0);
   --modal-shading: rgba(0, 0, 0, 0);
   --input-shading: rgba(0, 0, 0, 0);
+  --settingsmodalwidth: 960px;
+  --settingsmodalheight: 80vh;
   --background-image: url(https://w.wallhaven.cc/full/4g/wallhaven-4gwp6e.png);
 }
