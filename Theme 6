@@ -1,6 +1,15 @@
-@import url(https://clearvision.github.io/ClearVision-v6/main.css);
+/**
+ * @name ClearVision
+ * @author ClearVision Team
+ * @version 6.9.0
+ * @description Highly customizable theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite dHaSxn3
+ */
+/* Credits to Zerthox for making the original theme. */
+@import url("https://clearvision.github.io/ClearVision-v7/main.css");
 :root {
-  --background-shading: 0%;
-  --background-overlay: rgba(0, 0, 0, 0.6);
-  --background-image:  url(https://c.wallhere.com/photos/d4/bb/K_ON_Hirasawa_Yui_anime_girls-217807.jpg!d);
+  --background-shading-percent: 0%;
+  --background-image: url((https://c.wallhere.com/photos/d4/bb/K_ON_Hirasawa_Yui_anime_girls-217807.jpg!d);
 }
