@@ -10,7 +10,10 @@
 /* Credits to Zerthox for making the original theme. */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 :root {
-  --background-shading: 0%;
-  --background-overlay: rgba(0, 0, 0, 0.6);
+  --background-shading-percent: 0%;
+  --background-shading: rgba(0, 0, 0, 0);
+  --card-shading: rgba(0, 0, 0, 0);
+  --popout-shading: rgba(0, 0, 0, 0);
+  --modal-shading: rgba(0, 0, 0, 0);
   --background-image: url(https://wallup.net/wp-content/uploads/2017/10/25/483033-K-ON-Hirasawa_Yui.jpg);
 }
