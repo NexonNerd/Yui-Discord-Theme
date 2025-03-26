@@ -12,5 +12,9 @@
 :root {
   --background-shading-percent: 0%;
   --background-shading: rgba(0, 0, 0, 0);
+  --card-shading: rgba(0, 0, 0, 0);
+  --popout-shading: rgba(0, 0, 0, 0);
+  --modal-shading: rgba(0, 0, 0, 0);
+  --input-shading: rgba(0, 0, 0, 0);
   --background-image: url(https://images.coolwallpapers.me/picsup/2925656-k-on-hirasawa-yui___anime-wallpapers.jpg);
 }
